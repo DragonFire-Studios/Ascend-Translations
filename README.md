@@ -35,4 +35,5 @@ If you want to contribute to the translations, clone the repository to your comp
 If you want to help test our game, please join our [Discord server](https://discord.gg/SmMf4ZC3eM)!
 
 ## Contributors
-Thanks to all of our contributors who helped with the translations:
+Thanks to all of our contributors who helped with the translations: 
+[untilas](https://github.com/bendy1baldy2), who created the Russian translation.
