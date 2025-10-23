@@ -33,3 +33,6 @@ If you want to add more language codes, add them in the LANG section at the star
 If you want to contribute to the translations, clone the repository to your computer and then use your favorite JSON editor (VS Code recommended) to edit the file. If you want, you can replace the `text.json` file in the StreamingAssets/Text folder of your build to be able to change the text in the game to the text in your JSON file. After you're done editing, submit a PR.
 
 If you want to help test our game, please join our [Discord server](https://discord.gg/SmMf4ZC3eM)!
+
+## Contributors
+Thanks to all of our contributors who helped with the translations:
