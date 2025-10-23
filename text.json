@@ -1,49 +1,59 @@
 {
     "LANG": {
         "EN": "English",
-        "RO": "Romanian"
+        "RO": "Romanian",
+		"RU": "Русский"
     },
 
     "TEXT": {
         "MENU_MAIN": {
             "BTN_START": {
                 "EN": "Start Game",
-                "RO": "Începe jocul"
+                "RO": "Începe jocul",
+				"RU": "Начать игру"
             },
             "BTN_LOGS": {
                 "EN": "View Logs",
-                "RO": "Vezi jurnalele"
+                "RO": "Vezi jurnalele",
+				"RU": "Посмотреть логи"
             },
             "BTN_QUIT": {
                 "EN": "Quit Game",
-                "RO": "Ieșire din joc"
+                "RO": "Ieșire din joc",
+				"RU": "Выйти из игры"
             },
             "BTN_OPTIONS": {
                 "EN": "Options",
-                "RO": "Opțiuni"
+                "RO": "Opțiuni",
+				"RU": "Настройки"
             },
             "BTN_LEVELS": {
                 "EN": "Level Select",
-                "RO": "Selectare nivel"
+                "RO": "Selectare nivel",
+				"RU": "Выбрать уровень"
             }
         },
 
         "MENU_PAUSE": {
             "BTN_BACK": {
                 "EN": "Back to Game",
-                "RO": "Înapoi la joc"
+                "RO": "Înapoi la joc",
+				"RU": "Вернуться в игру"
             },
             "BTN_RESET": {
                 "EN": "Reset Level",
-                "RO": "Reîncepe nivelul"
+                "RO": "Reîncepe nivelul",
+				"RU": "Перезапустить уровень"
             },
             "BTN_MM": {
                 "EN": "Main Menu",
-                "RO": "Meniu principal"
+                "RO": "Meniu principal",
+				"RU": "Главное меню"
             },
             "BTN_OPTIONS": {
                 "EN": "Options",
-                "RO": "Opțiuni"
+                "RO": "Opțiuni",
+				"RU": "Настройки"
             }
         },
 
@@ -51,111 +61,133 @@
             "AREA_TEXT_0": {
                 "MAIN": {
                     "EN": "can you hear me?",
-                    "RO": "mă auzi?"
+                    "RO": "mă auzi?",
+					"RU": "ты меня слышишь?"
                 },
                 "SUB": {
                     "EN": "Use WASD to move around.",
-                    "RO": "Folosește WASD pentru a te mișca."
+                    "RO": "Folosește WASD pentru a te mișca.",
+					"RU": "Используй WASD, чтобы передвигаться."
                 }
             },
             "AREA_TEXT_1": {
                 "MAIN": {
                     "EN": "",
-                    "RO": ""
+                    "RO": "",
+					"RU": ""
                 },
                 "SUB": {
                     "EN": "who are you? where are you?",
-                    "RO": "cine ești? unde ești?"
+                    "RO": "cine ești? unde ești?",
+					"RU": "кто ты? где ты?"
                 }
             },
             "AREA_TEXT_2": {
                 "MAIN": {
                     "EN": "right... you're in Heaven now",
-                    "RO": "acum ești în Rai"
+                    "RO": "acum ești în Rai",
+					"RU": "точно... ты сейчас в Раю"
                 },
                 "SUB": {
                     "EN": "how... how did I get here?",
-                    "RO": "cum... cum am ajuns aici?"
+                    "RO": "cum... cum am ajuns aici?",
+					"RU": "как... как я сюда попал?"
                 }
             },
             "AREA_TEXT_3": {
                 "MAIN": {
                     "EN": "just chill out man, it's not like you're dead...",
-                    "RO": "relaxează-te frate, nu e ca și cum ai fi mort..."
+                    "RO": "relaxează-te frate, nu e ca și cum ai fi mort...",
+					"RU": "просто расслабься мужик, это не то чтобы ты мёртв..."
                 },
                 "SUB": {
                     "EN": "Press Space to jump over this gap.",
-                    "RO": "Apasă Space pentru a sări peste această prăpastie."
+                    "RO": "Apasă Space pentru a sări peste această prăpastie.",
+					"RU": "Нажми Пробел, чтобы перепрыгнуть это расстояние."
                 }
             },
             "AREA_TEXT_4": {
                 "MAIN": {
                     "EN": "oh wait... bad choice of words.",
-                    "RO": "oh, stai... am ales cuvintele prost acolo."
+                    "RO": "oh, stai... am ales cuvintele prost acolo.",
+					"RU": "подожди... плохой выбор слов."
                 },
                 "SUB": {
                     "EN": "Hold Control while moving to slide down this ramp.",
-                    "RO": "Ține apăsat Control în timp ce te miști pentru a aluneca pe această rampă."
+                    "RO": "Ține apăsat Control în timp ce te miști pentru a aluneca pe această rampă.",
+					"RU": "Нажми и удерживай Control при перемещении чтобы скатиться по этой стене."
                 }
             },
             "AREA_TEXT_5": {
                 "MAIN": {
                     "EN": "",
-                    "RO": ""
+                    "RO": "",
+					"RU": ""
                 },
                 "SUB": {
                     "EN": "remember...",
-                    "RO": "amintește-ți..."
+                    "RO": "amintește-ți...",
+					"RU": "помни..."
                 }
             },
             "AREA_TEXT_6": {
                 "MAIN": {
                     "EN": "well... you actually are kinda dead. but not really. it's complicated.",
-                    "RO": "ei bine... de fapt ești cam mort. dar nu chiar. e complicat."
+                    "RO": "ei bine... de fapt ești cam mort. dar nu chiar. e complicat.",
+					"RU": "ну... ты на самом деле как то мёртв. но не совсем. это сложно."
                 },
                 "SUB": {
                     "EN": "You can wallrun by jumping on a wall while moving forward.",
-                    "RO": "Poți alerga pe pereți sărind pe un perete în timp ce te miști înainte."
+                    "RO": "Poți alerga pe pereți sărind pe un perete în timp ce te miști înainte.",
+					"RU": "Ты можешь бегать по стене, прыгнув на неё и двигаясь вперёд."
                 }
             },
             "AREA_TEXT_7": {
                 "MAIN": {
                     "EN": "",
-                    "RO": ""
+                    "RO": "",
+					"RU": ""
                 },
                 "SUB": {
                     "EN": "you know, you really should try to work on your communication skills.",
-                    "RO": "știi, chiar ar trebui să lucrezi la abilitățile tale de comunicare."
+                    "RO": "știi, chiar ar trebui să lucrezi la abilitățile tale de comunicare.",
+					"RU": "знаешь, тебе действительно стоит поработать над своими навыками общения."
                 }
             },
             "AREA_TEXT_8": {
                 "MAIN": {
                     "EN": "listen, man, it's my first day on the job here welcoming the new souls.\n give me a break.",
-                    "RO": "ascultă, frate, e prima mea zi aici la muncă, întâmpinând sufletele noi.\n dă-mi o șansă."
+                    "RO": "ascultă, frate, e prima mea zi aici la muncă, întâmpinând sufletele noi.\n dă-mi o șansă.",
+					"RU": "послушай, чувак, это мой первый рабочий день здесь, и я приветствую новые души.\n дай мне передохнуть."
                 },
                 "SUB": {
                     "EN": "You can also jump between walls while wallrunning.",
-                    "RO": "De asemenea, poți sări între pereți în timp ce alergi pe pereți."
+                    "RO": "De asemenea, poți sări între pereți în timp ce alergi pe pereți.",
+					"RU": "Ты также можешь прыгать между стенами пока ты бежишь по ним"
                 }
             },
             "AREA_TEXT_9": {
                 "MAIN": {
                     "EN": "anyways, welcome to Heaven! as soon as you pass those gates\n my colleague will show you around and help you get settled in",
-                    "RO": "oricum, bine ai venit în Rai! de îndată ce treci de acele porți\n colegul meu te va ghida și te va ajuta să te acomodezi"
+                    "RO": "oricum, bine ai venit în Rai! de îndată ce treci de acele porți\n colegul meu te va ghida și te va ajuta să te acomodezi",
+					"RU": "в любом случае, добро пожаловать в Рай! как только ты пройдешь через эти ворота,\n мой колега покажет тебе вокруг и поможет освоиться."
                 },
                 "SUB": {
                     "EN": "Dash between these two platforms by pressing Shift while in the air.",
-                    "RO": "Fă un dash între aceste două platforme apăsând Shift în timp ce ești în aer"
+                    "RO": "Fă un dash între aceste două platforme apăsând Shift în timp ce ești în aer",
+					"RU": "Делай рывок между этими двумя платформами нажав Shift в воздухе."
                 }
             },
             "AREA_TEXT_10": {
                 "MAIN": {
                     "EN": "we all hope that you enjoy your permanent stay here!",
-                    "RO": "toți sperăm că te vei bucura de șederea ta permanentă aici!"
+                    "RO": "toți sperăm că te vei bucura de șederea ta permanentă aici!",
+					"RU": "мы все надеемся, что ты наслаждаешься твоим постоянным пребыванием здесь!"
                 },
                 "SUB": {
                     "EN": "Practice climbing ledges here by pressing Space when next to a wall",
-                    "RO": "Exersează cățăratul pe margini apăsând Space când ești lângă un perete"
+                    "RO": "Exersează cățăratul pe margini apăsând Space când ești lângă un perete",
+					"RU": "Потренируйся карабкаться по уступам, нажми пробел, находясь рядом со стеной."
                 }
             }
         },
@@ -165,11 +197,13 @@
                 "AREA_TEXT_0": {
                     "MAIN": {
                         "EN": "Entering Gargoyles' Rest",
-                        "RO": "Intrând în Odihna Gargoilelor"
+                        "RO": "Intrând în Odihna Gargoilelor",
+						"RU": "Вход в Покой Горгулий"
                     },
                     "SUB": {
                         "EN": "Tortured souls scream out in pain as you approach the gates of Hades",
-                        "RO": "Sufletele torturate țipă de durere în timp ce te apropii de porțile lui Hades"
+                        "RO": "Sufletele torturate țipă de durere în timp ce te apropii de porțile lui Hades",
+						"RU": "Измученные души кричат ​​от боли, когда ты приближаетесь к вратам Аида."
                     }
                 }
             },
@@ -177,11 +211,13 @@
                 "AREA_TEXT_0": {
                     "MAIN": {
                         "EN": "Entering Mighty Cerberus' Domain",
-                        "RO": "Intrând în Domeniul Puternicului Cerberus"
+                        "RO": "Intrând în Domeniul Puternicului Cerberus",
+						"RU": "Вход в Владения Могущественного Цербера"
                     },
                     "SUB": {
                         "EN": "The guardian of Hades stands watch over the gates leading out...",
-                        "RO": "Gardianul lui Hades păzește porțile care duc afară..."
+                        "RO": "Gardianul lui Hades păzește porțile care duc afară...",
+						"RU": "Страж Аида стоит и наблюдает за воротами, ведущими наружу..."
                     }
                 }
             },
@@ -189,11 +225,13 @@
                 "AREA_TEXT_0": {
                     "MAIN": {
                         "EN": "Entering The Islands in the Sky",
-                        "RO": "Intrând în Insulele din Cer"
+                        "RO": "Intrând în Insulele din Cer",
+						"RU": "Вход на Небесные Острова"
                     },
                     "SUB": {
                         "EN": "The wind whistles as you reach for the skies...",
-                        "RO": "Vântul șuieră în timp ce ajungi spre cer..."
+                        "RO": "Vântul șuieră în timp ce ajungi spre cer...",
+						"RU": "Ветер свистит, когда ты тянешься к небесам..."
                     }
                 }
             }
@@ -203,171 +241,205 @@
             "HADES_1": {
                 "MAIN": {
                     "EN": "Gargoyle's Ascent",
-                    "RO": "Urcușul Gargoilei"
+                    "RO": "Urcușul Gargoilei",
+                    "RU": "Восхождение Горгульи"
                 },
                 "SUB": {
                     "EN": "Level 1",
-                    "RO": "Nivel 1"
+                    "RO": "Nivel 1",
+					"RU": "Уровень 1"
                 }
             },
             "HADES_2": {
                 "MAIN": {
                     "EN": "Gargoyle's Rise",
-                    "RO": "Ridicarea Gargoilei"
+                    "RO": "Ridicarea Gargoilei",
+                    "RU": "Восхождение Горгульи"
                 },
                 "SUB": {
                     "EN": "Level 2",
-                    "RO": "Nivel 2"
+                    "RO": "Nivel 2",
+					"RU": "Уровень 2"
                 }
             },
             "HADES_3": {
                 "MAIN": {
                     "EN": "Gargoyle's Fortress",
-                    "RO": "Fortăreața Gargoilei"
+                    "RO": "Fortăreața Gargoilei",
+                    "RU": "Крепость Горгульи"
                 },
                 "SUB": {
                     "EN": "Level 3",
-                    "RO": "Nivel 3"
+                    "RO": "Nivel 3",
+					"RU": "Уровень 3"
                 }
             },
             "HADES_4": {
                 "MAIN": {
                     "EN": "The Hound's Domain",
-                    "RO": "Domeniul Câinelui"
+                    "RO": "Domeniul Câinelui",
+                    "RU": "Владения Гончей"
                 },
                 "SUB": {
                     "EN": "Level 4",
-                    "RO": "Nivel 4"
+                    "RO": "Nivel 4",
+					"RU": "Уровень 4"
                 }
             },
             "HADES_5": {
                 "MAIN": {
                     "EN": "Towerview Island",
-                    "RO": "Insula Turnului"
+                    "RO": "Insula Turnului",
+                    "RU": "Обзорный Остров"
                 },
                 "SUB": {
                     "EN": "Level 5",
-                    "RO": "Nivel 5"
+                    "RO": "Nivel 5",
+					"RU": "Уровень 5"
                 }
             },
             "HADES_6": {
                 "MAIN": {
                     "EN": "Pandora's Box",
-                    "RO": "Cutia lui Pandora"
+                    "RO": "Cutia lui Pandora",
+                    "RU": "Ящик Пандоры"
                 },
                 "SUB": {
                     "EN": "Level 6",
-                    "RO": "Nivel 6"
+                    "RO": "Nivel 6",
+					"RU": "Уровень 6"
                 }
             },
             "HADES_7": {
                 "MAIN": {
                     "EN": "Into the Tower",
-                    "RO": "Intrarea în Turn"
+                    "RO": "Intrarea în Turn",
+                    "RU": "В Башню"
                 },
                 "SUB": {
                     "EN": "Level 7",
-                    "RO": "Nivel 7"
+                    "RO": "Nivel 7",
+					"RU": "Уровень 7"
                 }
             },
             "HADES_8": {
                 "MAIN": {
                     "EN": "The Climb",
-                    "RO": "Urcușul"
+                    "RO": "Urcușul",
+                    "RU": "Подъём"
                 },
                 "SUB": {
                     "EN": "Level 8",
-                    "RO": "Nivel 8"
+                    "RO": "Nivel 8",
+					"RU": "Уровень 8"
                 }
             },
             "HADES_9": {
                 "MAIN": {
                     "EN": "Towerview Sky Islands",
-                    "RO": "Insulele Cerului de la Turn"
+                    "RO": "Insulele Cerului de la Turn",
+                    "RU": "Обзорные Небесные Острова"
                 },
                 "SUB": {
                     "EN": "Level 9",
-                    "RO": "Nivel 9"
+                    "RO": "Nivel 9",
+					"RU": "Уровень 9"
                 }
             },
             "HADES_10": {
                 "MAIN": {
                     "EN": "The Struggle",
-                    "RO": "Lupta"
+                    "RO": "Lupta",
+                    "RU": "Трудность"
                 },
                 "SUB": {
                     "EN": "Level 10 (Boss Level)",
-                    "RO": "Nivel 10 (Nivel Boss)"
+                    "RO": "Nivel 10 (Nivel Boss)",
+                    "RU": "Уровень 10 (Уровень с Боссом)"
                 }
             },
             "HADES_11": {
                 "MAIN": {
                     "EN": "Thunder Isle",
-                    "RO": "Insula Tunetului"
+                    "RO": "Insula Tunetului",
+                    "RU": "Остров Грома"
                 },
                 "SUB": {
                     "EN": "Level 11",
-                    "RO": "Nivel 11"
+                    "RO": "Nivel 11",
+                    "RU": "Уровень 11"
                 }
             },
             "HADES_12": {
                 "MAIN": {
                     "EN": "The Lightning Wastes",
-                    "RO": "Deșertul Fulgerelor"
+                    "RO": "Deșertul Fulgerelor",
+                    "RU": "Молниеносные Пустоши"
                 },
                 "SUB": {
                     "EN": "Level 12",
-                    "RO": "Nivel 12"
+                    "RO": "Nivel 12",
+                    "RU": "Уровень 12"
                 }
             },
             "HADES_13": {
                 "MAIN": {
                     "EN": "The Bloodrain Chapels",
-                    "RO": "Capelele Ploii de Sânge"
+                    "RO": "Capelele Ploii de Sânge",
+                    "RU": "Часовни Кровавого Потока"
                 },
                 "SUB": {
                     "EN": "Level 13",
-                    "RO": "Nivel 13"
+                    "RO": "Nivel 13",
+                    "RU": "Уровень 13"
                 }
             },
             "HADES_14": {
                 "MAIN": {
                     "EN": "The Sunken Pillars",
-                    "RO": "Pilonii Scufundați"
+                    "RO": "Pilonii Scufundați",
+                    "RU": "Затонувшие Колонны"
                 },
                 "SUB": {
                     "EN": "Level 14",
-                    "RO": "Nivel 14"
+                    "RO": "Nivel 14",
+                    "RU": "Уровень 14"
                 }
             },
             "HADES_15": {
                 "MAIN": {
                     "EN": "Outside the Ramparts",
-                    "RO": "În afara Zidurilor"
+                    "RO": "În afara Zidurilor",
+                    "RU": "За Пределами Крепостных Стен"
                 },
                 "SUB": {
                     "EN": "Level 15",
-                    "RO": "Nivel 15"
+                    "RO": "Nivel 15",
+                    "RU": "Уровень 15"
                 }
             },
             "HADES_16": {
                 "MAIN": {
                     "EN": "The Damned Ramparts",
-                    "RO": "Zidurile Blestemaților"
+                    "RO": "Zidurile Blestemaților",
+                    "RU": "Проклятые Крепостные Стены"
                 },
                 "SUB": {
                     "EN": "Level 16",
-                    "RO": "Nivel 16"
+                    "RO": "Nivel 16",
+                    "RU": "Уровень 16"
                 }
             },
             "HADES_17": {
                 "MAIN": {
                     "EN": "The Crumbling Bastions",
-                    "RO": "Bastioanele Prăbușite"
+                    "RO": "Bastioanele Prăbușite",
+                    "RU": "Рушащиеся бастионы"
                 },
                 "SUB": {
                     "EN": "Level 17",
-                    "RO": "Nivel 17"
+                    "RO": "Nivel 17",
+                    "RU": "Уровень 17"
                 }
             }
         }
