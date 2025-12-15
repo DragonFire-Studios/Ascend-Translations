@@ -12,25 +12,10 @@
                 "RO": "Începe jocul",
 				"RU": "Начать игру"
             },
-            "BTN_LOGS": {
-                "EN": "View Logs",
-                "RO": "Vezi jurnalele",
-				"RU": "Посмотреть логи"
-            },
-            "BTN_QUIT": {
-                "EN": "Quit Game",
-                "RO": "Ieșire din joc",
-				"RU": "Выйти из игры"
-            },
-            "BTN_OPTIONS": {
-                "EN": "Options",
-                "RO": "Opțiuni",
-				"RU": "Настройки"
-            },
             "BTN_LEVELS": {
-                "EN": "Level Select",
-                "RO": "Selectare nivel",
-				"RU": "Выбрать уровень"
+                "EN": "Levels",
+                "RO": "Nivele",
+				"RU": "Уровни"
             }
         },
 
@@ -348,14 +333,14 @@
             },
             "HADES_10": {
                 "MAIN": {
-                    "EN": "The Struggle",
-                    "RO": "Lupta",
-                    "RU": "Трудность"
+                    "EN": "The Floating Stones",
+                    "RO": "Pietrele Plutitoare",
+                    "RU": "Парящие Камни"
                 },
                 "SUB": {
-                    "EN": "Level 10 (Boss Level)",
-                    "RO": "Nivel 10 (Nivel Boss)",
-                    "RU": "Уровень 10 (Уровень с Боссом)"
+                    "EN": "\nLevel 10\n- Boss Level -",
+                    "RO": "\nNivel 10\n- Nivel Boss -",
+                    "RU": "\nУровень 10\n- Уровень с Боссом -"
                 }
             },
             "HADES_11": {
@@ -440,6 +425,42 @@
                     "EN": "Level 17",
                     "RO": "Nivel 17",
                     "RU": "Уровень 17"
+                }
+            },
+            "HADES_18": {
+                "MAIN": {
+                    "EN": "The Climb",
+                    "RO": "Urcușul",
+                    "RU": "Подъём"
+                },
+                "SUB": {
+                    "EN": "Level 18",
+                    "RO": "Nivel 18",
+                    "RU": "Уровень 18"
+                }
+            },
+            "HADES_19": {
+                "MAIN": {
+                    "EN": "The Ghost Ships",
+                    "RO": "Navele Fantomă",
+                    "RU": "Призрачные Корабли"
+                },
+                "SUB": {
+                    "EN": "Level 19",
+                    "RO": "Nivel 19",
+                    "RU": "Уровень 19"
+                }
+            },
+            "HADES_20": {
+                "MAIN": {
+                    "EN": "The Final Stretch",
+                    "RO": "Urcușul Final",
+                    "RU": "Последний Отрезок"
+                },
+                "SUB": {
+                    "EN": "\nLevel 20\n- Boss Level -",
+                    "RO": "\nNivel 20\n- Nivel Boss -",
+                    "RU": "\nУровень 20\n- Уровень с Боссом -"
                 }
             }
         }
