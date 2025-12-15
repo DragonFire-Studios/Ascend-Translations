@@ -340,7 +340,7 @@
                 "SUB": {
                     "EN": "\nLevel 10\n- Boss Level -",
                     "RO": "\nNivel 10\n- Nivel Boss -",
-                    "RU": "\nУровень 10\n- Уровень с Боссом -"
+                    "RU": "\nУровень 10\n- Босс -"
                 }
             },
             "HADES_11": {
@@ -455,12 +455,12 @@
                 "MAIN": {
                     "EN": "The Final Stretch",
                     "RO": "Urcușul Final",
-                    "RU": "Последний Отрезок"
+                    "RU": "Последний Рывок"
                 },
                 "SUB": {
                     "EN": "\nLevel 20\n- Boss Level -",
                     "RO": "\nNivel 20\n- Nivel Boss -",
-                    "RU": "\nУровень 20\n- Уровень с Боссом -"
+                    "RU": "\nУровень 20\n- Босс -"
                 }
             }
         }
