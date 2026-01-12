@@ -42,6 +42,84 @@
             }
         },
 
+        "MENU_OPTIONS": {
+            "LABEL_OPTIONS": {
+                "EN": "Options",
+                "RO": "Opțiuni",
+				"RU": "Настройки"
+            },
+            "SUB_GAMEPLAY": {
+                "BUTTON_GAMEPLAY": {
+                    "EN": "gameplay",
+                    "RO": "joc"
+                },
+                "LABEL_SENSITIVITY": {
+                    "EN": "sensitivity",
+                    "RO": "sensitivitate"
+                },
+                "LABEL_CONTROLLER_SENS": {
+                    "EN": "controller sensitivity",
+                    "RO": "sensitivitate controller"
+                },
+                "LABEL_SKIP_INTROS": {
+                    "EN": "skip intros",
+                    "RO": "sari peste intro"
+                },
+                "LABEL_HEADBOB": {
+                    "EN": "head bob",
+                    "RO": "legănare cap"
+                },
+                "LABEL_CAMERA_SHAKE": {
+                    "EN": "camera shake",
+                    "RO": "tremurare cameră"
+                }
+            },
+            "SUB_AUDIO": {
+                "BUTTON_AUDIO": {
+                    "EN": "Audio",
+                    "RO": "Audio"
+                },
+                "LABEL_AUDIO_MAIN": {
+                    "EN": "main audio",
+                    "RO": "audio principal"
+                },
+                "LABEL_MUSIC": {
+                    "EN": "music",
+                    "RO": "muzică"
+                }
+            },
+            "SUB_DISPLAY": {
+                "BUTTON_DISPLAY": {
+                    "EN": "Display",
+                    "RO": "Display"
+                },
+                "LABEL_FOV": {
+                    "EN": "FOV",
+                    "RO": "FOV"
+                },
+                "LABEL_MOTION_BLUR": {
+                    "EN": "motion blur",
+                    "RO": "blur de mișcare"
+                },
+                "LABEL_AA": {
+                    "EN": "anti-aliasing",
+                    "RO": "anti-aliasing"
+                },
+                "LABEL_WINDOW_MODE": {
+                    "EN": "window mode",
+                    "RO": "mod window"
+                },
+                "LABEL_RESOLUTION": {
+                    "EN": "resolution",
+                    "RO": "rezoluție"
+                },
+                "LABEL_LANGUAGE": {
+                    "EN": "language",
+                    "RO": "limbă"
+                }
+            }
+        },
+
         "LVL_TUTORIAL": {
             "AREA_TEXT_0": {
                 "MAIN": {
