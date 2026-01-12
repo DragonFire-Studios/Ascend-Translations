@@ -25,7 +25,7 @@ Some sections have main and sub texts, in which case a sub-object would look lik
 }
 ```
 
-If you want to add more language codes, add them in the LANG section at the start of the JSON file. Use [standard ISO 639-1 language codes](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes). Please note that due to our formatter, these have to be exactly two letters long (the Series 1 table in the wikipedia article has all of the language codes we will use). Same goes for the text in each of the different text sections, they have to be exactly in the same format as in the example above. That is:
+If you want to add more language codes, add them in the LANG section at the start of the JSON file. Use [standard ISO 639-1 language codes](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes). Please note that due to our formatter, these have to be exactly two letters long (the Set 1 table in the wikipedia article has all of the language codes we will use). Same goes for the text in each of the different text sections, they have to be exactly in the same format as in the example above. That is:
 - Sub-object name in all caps (**DON'T** change this or add any)
   - Language code **in all caps** : "text that will appear in the game"
 
