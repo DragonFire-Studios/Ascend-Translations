@@ -51,71 +51,87 @@
             "SUB_GAMEPLAY": {
                 "BUTTON_GAMEPLAY": {
                     "EN": "gameplay",
-                    "RO": "joc"
+                    "RO": "joc",
+					"RU": "игра"
                 },
                 "LABEL_SENSITIVITY": {
                     "EN": "sensitivity",
-                    "RO": "sensitivitate"
+                    "RO": "sensitivitate",
+					"RU": "чувствительность"
                 },
                 "LABEL_CONTROLLER_SENS": {
                     "EN": "controller sensitivity",
-                    "RO": "sensitivitate controller"
+                    "RO": "sensitivitate controller",
+					"RU": "чувствительность контроллера"
                 },
                 "LABEL_SKIP_INTROS": {
                     "EN": "skip intros",
-                    "RO": "sari peste intro"
+                    "RO": "sari peste intro",
+					"RU": "пропустить вступление"
                 },
                 "LABEL_HEADBOB": {
                     "EN": "head bob",
-                    "RO": "legănare cap"
+                    "RO": "legănare cap",
+					"RU": "покачивание камеры"
                 },
                 "LABEL_CAMERA_SHAKE": {
                     "EN": "camera shake",
-                    "RO": "tremurare cameră"
+                    "RO": "tremurare cameră",
+					"RU": "тряска камеры"
                 }
             },
             "SUB_AUDIO": {
                 "BUTTON_AUDIO": {
                     "EN": "Audio",
-                    "RO": "Audio"
+                    "RO": "Audio",
+					"RU": "Звук"
                 },
                 "LABEL_AUDIO_MAIN": {
                     "EN": "main audio",
-                    "RO": "audio principal"
+                    "RO": "audio principal",
+					"RU": "основной звук"
                 },
                 "LABEL_MUSIC": {
                     "EN": "music",
-                    "RO": "muzică"
+                    "RO": "muzică",
+					"RU": "музыка"
                 }
             },
             "SUB_DISPLAY": {
                 "BUTTON_DISPLAY": {
                     "EN": "Display",
-                    "RO": "Display"
+                    "RO": "Display",
+					"RU": "Видео"
                 },
                 "LABEL_FOV": {
                     "EN": "FOV",
-                    "RO": "FOV"
+                    "RO": "FOV",
+					"RU": "поле зрения"
                 },
                 "LABEL_MOTION_BLUR": {
                     "EN": "motion blur",
-                    "RO": "blur de mișcare"
+                    "RO": "blur de mișcare",
+					"RU": "размытие в движении"
                 },
                 "LABEL_AA": {
                     "EN": "anti-aliasing",
-                    "RO": "anti-aliasing"
+                    "RO": "anti-aliasing",
+					"RU": "cглаживание"
                 },
                 "LABEL_WINDOW_MODE": {
                     "EN": "window mode",
-                    "RO": "mod window"
+                    "RO": "mod window",
+					"RU": "оконный режим"
                 },
                 "LABEL_RESOLUTION": {
                     "EN": "resolution",
-                    "RO": "rezoluție"
+                    "RO": "rezoluție",
+					"RU": "разрешение"
                 },
                 "LABEL_LANGUAGE": {
                     "EN": "language",
-                    "RO": "limbă"
+                    "RO": "limbă",
+					"RU": "язык"
                 }
             }
         },
