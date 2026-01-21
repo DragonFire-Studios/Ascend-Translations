@@ -562,43 +562,56 @@
         "DIALOGUE": {
             "CASINO": {
                 "DD_CASINO_INTRO_1": {
-                    "EN": "Hey there, ghost! How's it been?"
+                    "EN": "Hey there, ghost! How's it been?",
+                    "RO": "Salut, fantomă! Ce mai faci?"
                 },
                 "DD_CASINO_INTRO_2": {
-                    "EN": "Ya want to try your luck on this here roulette table?"
+                    "EN": "Ya want to try your luck on this here roulette table?",
+                    "RO": "Vrei să încerci norocul la masa asta de ruletă?"
                 },
                 "OPT_YES": {
-                    "EN": "Sure, let's play!"
+                    "EN": "Sure, let's play!",
+                    "RO": "Sigur, hai să jucăm!"
                 },
                 "OPT_NO": {
-                    "EN": "Not right now."
+                    "EN": "Not right now.",
+                    "RO": "Nu acum."
                 },
                 "DD_CHOOSE_COLOR": {
-                    "EN": "Alright! Pick a color - red or black?"
+                    "EN": "Alright! Pick a color - red or black?",
+                    "RO": "Bine! Alege o culoare - roșu sau negru?"
                 },
                 "OPT_RED": {
-                    "EN": "Red"
+                    "EN": "Red",
+                    "RO": "Roșu"
                 },
                 "OPT_BLACK": {
-                    "EN": "Black"
+                    "EN": "Black",
+                    "RO": "Negru"
                 },
                 "DD_CHOOSE_BET": {
-                    "EN": "How many soul fragments are ya willing to bet?"
+                    "EN": "How many soul fragments are ya willing to bet?",
+                    "RO": "Câte fragmente de suflet ești dispus să pariezi?"
                 },
                 "DD_NOT_ENOUGH": {
-                    "EN": "Whoa there, you don't have enough soul fragments for that bet!"
+                    "EN": "Whoa there, you don't have enough soul fragments for that bet!",
+                    "RO": "Ei bine, nu ai suficiente fragmente de suflet pentru această pariere!"
                 },
                 "DD_WIN": {
-                    "EN": "Well would ya look at that! You won! Here's your prize."
+                    "EN": "Well would ya look at that! You won! \n*That... isn't suposed to happen...*",
+                    "RO": "Uite asta! Ai câștigat! \n*Asta... nu ar trebui să se întâmple...*"
                 },
                 "DD_LOSE": {
-                    "EN": "Ooh, tough luck! The house wins this round."
+                    "EN": "Ooh, tough luck! The house wins this round.",
+                    "RO": "Ooh, noroc prost! Casa câștigă această rundă."
                 },
                 "DD_PLAY_AGAIN": {
-                    "EN": "Wanna go another round?"
+                    "EN": "Wanna go another round?",
+                    "RO": "Vrei să mai joci o rundă?"
                 },
                 "DD_GOODBYE": {
-                    "EN": "Catch ya later, ghost!"
+                    "EN": "Catch ya later, ghost!",
+                    "RO": "Te văd mai târziu, fantomă!"
                 }
             }
         }
