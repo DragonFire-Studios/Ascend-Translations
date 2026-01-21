@@ -15,7 +15,7 @@
             "BTN_LEVELS": {
                 "EN": "Levels",
                 "RO": "Nivele",
-				"RU": "Уровни"
+                "RU": "Уровни"
             }
         },
 
@@ -541,6 +541,51 @@
                     "RU": "\nУровень 20\n- Босс -"
                 }
             }
+        },
+
+        "DIALOGUE": {
+            "CASINO": {
+                "DD_CASINO_INTRO_1": {
+                    "EN": "Hey there, ghost! How's it been?"
+                },
+                "DD_CASINO_INTRO_2": {
+                    "EN": "Ya want to try your luck on this here roulette table?"
+                },
+                "OPT_YES": {
+                    "EN": "Sure, let's play!"
+                },
+                "OPT_NO": {
+                    "EN": "Not right now."
+                },
+                "DD_CHOOSE_COLOR": {
+                    "EN": "Alright! Pick a color - red or black?"
+                },
+                "OPT_RED": {
+                    "EN": "Red"
+                },
+                "OPT_BLACK": {
+                    "EN": "Black"
+                },
+                "DD_CHOOSE_BET": {
+                    "EN": "How many soul fragments are ya willing to bet?"
+                },
+                "DD_NOT_ENOUGH": {
+                    "EN": "Whoa there, you don't have enough soul fragments for that bet!"
+                },
+                "DD_WIN": {
+                    "EN": "Well would ya look at that! You won! Here's your prize."
+                },
+                "DD_LOSE": {
+                    "EN": "Ooh, tough luck! The house wins this round."
+                },
+                "DD_PLAY_AGAIN": {
+                    "EN": "Wanna go another round?"
+                },
+                "DD_GOODBYE": {
+                    "EN": "Catch ya later, ghost!"
+                }
+            }
         }
+
     }
 }
