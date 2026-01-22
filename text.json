@@ -602,8 +602,8 @@
 					"RU": "Сколько осколков души ты готов поставить?"
                 },
                 "DD_NOT_ENOUGH": {
-                    "EN": "Whoa there, you don't have enough soul fragments for that bet!",
-                    "RO": "Ei bine, nu ai suficiente fragmente de suflet pentru această pariere!",
+                    "EN": "Whoa there, you don't have enough soul fragments!",
+                    "RO": "Ei bine, nu ai suficiente fragmente de suflet!",
 					"RU": "Эй, погоди, у тебя недостаточно осколков души для такой ставки!"
                 },
                 "DD_WIN": {
