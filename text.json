@@ -604,7 +604,7 @@
                 "DD_NOT_ENOUGH": {
                     "EN": "Whoa there, you don't have enough soul fragments!",
                     "RO": "Ei bine, nu ai suficiente fragmente de suflet!",
-					"RU": "Эй, погоди, у тебя недостаточно осколков души для такой ставки!"
+					"RU": "Эй, полегче, у тебя недостаточно осколков души!"
                 },
                 "DD_WIN": {
                     "EN": "Well would ya look at that! You won! \nThat... isn't suposed to happen...",
@@ -614,7 +614,7 @@
                 "DD_LOSE": {
                     "EN": "Ooh, tough luck! The house wins this round.",
                     "RO": "Ooh, noroc prost! Casa câștigă această rundă.",
-					"RU": ""
+					"RU": "Ох, не повезло! В этом раунде выигрывает заведение."
                 },
                 "DD_PLAY_AGAIN": {
                     "EN": "Wanna go another round?",
